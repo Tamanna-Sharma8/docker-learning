@@ -7,8 +7,8 @@ I am learning Docker to understand how applications can be packaged and deployed
 
 ## ⚙️ Docker Commands – Learning Notes
 
-### 1. Pull an Image from Docker Hub
 ```bash
+ 1. Pull an Image from Docker Hub
 docker pull <image_name>
 
 2. List Downloaded Images
