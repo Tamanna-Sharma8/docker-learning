@@ -40,5 +40,12 @@ docker rmi <image_name>
 
 10. Remove a Container
 docker rm <container_name_or_id>
+
+### 11. Pull Specific Image Version
+docker pull <image_name>:<version>
+
+12. Run Container in Detached Mode
+docker run -d <image_name>
+
 ```
 
