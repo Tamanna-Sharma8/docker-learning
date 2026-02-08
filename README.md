@@ -25,5 +25,20 @@ Runs container in interactive mode so we can access the container terminal (for 
 
 5. Show All Containers
 docker ps -a
+
+6. Show Running Containers Only
+docker ps
+
+7. Start an Existing Container
+docker start <container_name_or_id>
+
+8. Stop a Running Container
+docker stop <container_name_or_id>
+
+9. Remove an Image
+docker rmi <image_name>
+
+10. Remove a Container
+docker rm <container_name_or_id>
 ```
 
