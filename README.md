@@ -50,6 +50,9 @@ docker run -d <image_name>
 13. Run Container with Custom Name
 docker run -d --name <container_name> <image_name>
 
+14. Docker Images and Layers
+Docker images are built as a **collection of layers**, where each layer represents a change or instruction added to the image.  
+This layered structure makes images lightweight and efficient because layers can be reused across images.
 
 ```
 
