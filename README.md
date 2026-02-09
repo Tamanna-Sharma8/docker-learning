@@ -50,8 +50,6 @@ docker run -d <image_name>
 13. Run Container with Custom Name
 docker run -d --name <container_name> <image_name>
 
-12. Run Container in Detached Mode
-docker run -d <image_name>
 
 ```
 
