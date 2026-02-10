@@ -60,7 +60,7 @@ Port binding maps a **host machine port** to a **container port**, allowing serv
 Command format:
 ```bash
 docker run -p <host_port>:<container_port> <image_name>
-```
+```bash
 Example:
 
 docker run -d -e MYSQL_ROOT_PASSWORD=secret --name mysql-older -p 5000:3306 mysql:8.0
