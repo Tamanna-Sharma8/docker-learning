@@ -54,5 +54,12 @@ docker run -d --name <container_name> <image_name>
 Docker images are built as a **collection of layers**, where each layer represents a change or instruction added to the image.  
 This layered structure makes images lightweight and efficient because layers can be reused across images.
 
+15. Port Binding in Docker
+Port binding maps a **host machine port** to a **container port**, allowing services inside containers to be accessed from outside.
+
+Command format:
+```bash
+docker run -p <host_port>:<container_port> <image_name>
+
 ```
 
