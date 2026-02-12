@@ -63,4 +63,11 @@ docker run -p <host_port>:<container_port> <image_name>
 Example:
 docker run -d -e MYSQL_ROOT_PASSWORD=secret --name mysql-older -p 5000:3306 mysql:8.0
 ```
+16. View Container Logs
+```bash
+docker logs <container_name_or_id>
+
+---
+
+
 
