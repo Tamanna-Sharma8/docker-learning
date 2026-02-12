@@ -66,7 +66,7 @@ docker run -d -e MYSQL_ROOT_PASSWORD=secret --name mysql-older -p 5000:3306 mysq
 16. View Container Logs
 ```bash
 docker logs <container_name_or_id>
-
+```
 ---
 
 
