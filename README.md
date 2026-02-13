@@ -65,11 +65,11 @@ docker run -d -e MYSQL_ROOT_PASSWORD=secret --name mysql-older -p 5000:3306 mysq
 16. View Container Logs
 ```bash
 docker logs <container_name_or_id>
-```
+
 17. Follow Logs in Real-Time
-```
+```bash
 docker logs -f <container_name_or_id>
-```
+
 18. Execute Command Inside Running Container
 docker exec -it <container_name_or_id> bash
 
@@ -78,6 +78,8 @@ docker top <container_name_or_id>
 
 20. Show Container Resource Usage
 docker stats
+```
+```
 ```
 
 ---
