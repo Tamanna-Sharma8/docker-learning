@@ -71,6 +71,14 @@ docker logs <container_name_or_id>
 ```
 docker logs -f <container_name_or_id>
 ```
+18. Execute Command Inside Running Container
+docker exec -it <container_name_or_id> bash
+
+19. List Running Processes Inside Container
+docker top <container_name_or_id>
+
+20. Show Container Resource Usage
+docker stats
 ---
 
 
