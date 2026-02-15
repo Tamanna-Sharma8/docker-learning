@@ -78,6 +78,15 @@ docker top <container_name_or_id>
 
 20. Show Container Resource Usage
 docker stats
+
+21. Inspect Container Details
+docker inspect <container_name_or_id>
+
+22. Rename a Container
+docker rename <old_name> <new_name>
+
+23. Remove All Stopped Containers
+docker container prune
 ```
 ```
 ```
