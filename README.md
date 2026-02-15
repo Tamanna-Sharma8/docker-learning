@@ -87,6 +87,12 @@ docker rename <old_name> <new_name>
 
 23. Remove All Stopped Containers
 docker container prune
+
+24. Remove Unused Images
+docker image prune
+
+25. Remove Everything Unused
+docker system prune
 ```
 ```
 ```
