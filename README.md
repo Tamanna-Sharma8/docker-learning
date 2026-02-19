@@ -93,6 +93,12 @@ docker image prune
 
 25. Remove Everything Unused
 docker system prune
+
+26. Create a Docker Network
+```bash
+docker network create <network_name>
+```
+
 ```
 ```
 ```
