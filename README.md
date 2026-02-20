@@ -5,7 +5,7 @@ This repository contains my Docker practice, commands, and sample setups while l
 ## About
 I am learning Docker to understand how applications can be packaged and deployed using containers. This repository stores commands and practice notes for future reference and continuous learning.
 
-## ⚙️ Docker Commands – Learning Notes
+## Docker Commands – Learning Notes
 
 ```bash
  1. Pull an Image from Docker Hub
