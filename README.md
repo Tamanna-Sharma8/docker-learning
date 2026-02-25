@@ -98,11 +98,9 @@ docker system prune
 ```bash
 docker network create <network_name>
 ```
-
 ```
 ```
 ```
-
 
 ---
 
