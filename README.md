@@ -2,8 +2,6 @@
 
 This repository contains my Docker practice, commands, and sample setups while learning Docker.
 
-This repository contains
-
 ## About
 I am learning Docker to understand how applications can be packaged and deployed using containers. This repository stores commands and practice notes for future reference and continuous learning.
 
