@@ -1,6 +1,6 @@
 # Docker Learning
 
-This repository contains my Docker practice, commands, and sample setups while learning Docker. This docker contains all the learnings from apna college course.
+This repository contains my Docker practice, commands, and sample setups while learning Docker.
 
 ## About
 I am learning Docker to understand how applications can be packaged and deployed using containers. This repository stores commands and practice notes for future reference and continuous learning.
