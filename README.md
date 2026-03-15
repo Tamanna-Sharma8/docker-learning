@@ -99,8 +99,7 @@ docker system prune
 docker network create <network_name>
 ```
 ```
-```
-```
+
 
 ---
 
